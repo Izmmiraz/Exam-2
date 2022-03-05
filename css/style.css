@@ -1,0 +1,99 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.nav-link.js-scroll-trigger{
+	color: gray;
+	margin: 20px;
+}
+.nav-link.js-scroll-trigger.active{
+	background-color: black;
+	color: white;
+	padding: 10px 30px;
+	border-radius: 30px;
+
+
+}
+.header-sec{
+	background: url(../img/mache_bg.jpg);
+}
+.header-sec h1{
+	color: white;
+}
+.header-sec h2{
+	color: white;
+}
+.home-btn{
+	padding: 10px 30px;
+	color: white;
+	background-color: lightgreen;
+	border: none;
+	margin-top: 30px;
+}
+.work-sec h1{
+	margin-top: 40px;
+	color: darkslategrey;
+
+}
+.work-sec p{
+	margin-top: 30px;
+	color: gray;
+}
+.work-sec h6{
+	color: gray;
+	margin-top: 30px;
+
+
+}
+.fa.fa-gg-circle{
+	color: lightgreen;
+	font-size: 80px;
+}
+.member-text{
+	background-color: #0c8bda21;
+	padding: 50px 50px;
+
+}
+.member-text p{
+	color: gray;
+
+}
+.member-btn{
+	padding: 10px 30px;
+	color: white;
+	background-color: skyblue;
+	border: none;
+		
+}
+.submit-text{
+	background-color:mintcream;
+	padding: 50px 50px;
+
+}
+.submit-text p{
+	color: gray;
+
+}
+.submit-btn{
+	padding: 10px 30px;
+	color: white;
+	background-color: lightgreen;
+	border: none;
+		
+
+}
+.blog-text h3{
+
+}
+.blog-text p{
+	color: gray;
+
+}
+.blog-btn{
+	padding: 10px 30px;
+	color: gray;
+	background-color: white;
+	border: 1px solid gray;
+	border-radius: 20px;
+
+}
